@@ -1,1 +1,3 @@
-# como-comprar-ontology-ont
+[**Cómo comprar Ontology (ONT)**](https://topcryptoguide.com/como-comprar-ontology-ont/)
+
+Este artículo explica **cómo comprar Ontology (ONT)**, el token nativo de la plataforma Ontology, diseñada para ofrecer **soluciones de identidad digital y servicios blockchain interoperables**. Para adquirir ONT normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (como Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra desde el mercado spot. Algunos exchanges también permiten **comprar ONT directamente con tarjeta de crédito/débito** o mediante métodos alternativos según disponibilidad. Tras la compra, se recomienda **mover los tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
